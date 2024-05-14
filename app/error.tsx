@@ -1,3 +1,5 @@
+"use client";
+
 export const runtime = 'edge';
 
 import { NextPageContext } from 'next';
