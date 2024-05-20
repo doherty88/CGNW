@@ -32,8 +32,7 @@ const nextConfig = {
   },
   experimental: {
     forceSwcTransforms: true,
-  },
-  generateStaticHTML404: false,
+  }
 };
 
 const CorsHeaders = [
